@@ -112,7 +112,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        child: const Icon(Icons.star)
+        child: const Icon(Icons.star),
         backgroundColor: Colors.blue,
         children: [
           Incremental(
